@@ -26,6 +26,7 @@
     "@tiptap/suggestion": "^3.17.1",
     "class-variance-authority": "^0.7.1",
     "dompurify": "^3.3.0",
+    "effect": "^3.19.16",
     "framer-motion": "^12.23.24",
     "highlight.js": "^11.11.1",
     "json-stringify-pretty-compact": "^4.0.0",
